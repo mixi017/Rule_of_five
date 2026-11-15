@@ -6,5 +6,5 @@
   <Folder Name="/Элементы решения/">
     <File Path="README.md" />
   </Folder>
-  <Project Path="task_move/task_move.vcxproj" />
+  <Project Path="task_move/task_move.vcxproj" Id="e7eae757-21dc-4c04-9b95-24e45aa7da94" />
 </Solution>
